@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Cat](alvan-nee-ZCHj_2lJP00-unsplash.jpg)
