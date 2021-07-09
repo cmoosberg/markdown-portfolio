@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. []peanut butter pretzels
+2. []ice cream
+3. []pizza
